@@ -13,4 +13,3 @@ This was my second favorite lab, this lab had us deal with For-loops and that wa
 
 Lab 6 part 1
 This was my third favorite lab, this lab was challenging at first because it involved using pi and the diameter of a pizza. The code calculated how many dollars a customer would have to pay per ounce.
-hjfbjsdnfjndskjfjdsnkjfdjshkjfhkldsjklfhjlfnjlfakl
