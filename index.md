@@ -10,8 +10,8 @@ I found this lab very interesting and liked the way that we implemented algorith
 
 
 Lab 5 part 1, 
-This was my second favorite lab, this lab had us deal with For-loops and that was intriguing at first. We had to calculate square roots with For-loops which made it different. 
+This was my second favorite lab, this lab had us deal with For-loops and that was intriguing at first. We had to calculate square roots with For-loops which made it different.
 
 
 Lab 6 part 1
-This was my third favorite lab, this lab was challenging at first because it involved using pi and the diameter of a pizza. The code calculated how many dollars a customer would have to pay per ounce. 
+This was my third favorite lab, this lab was challenging at first because it involved using pi and the diameter of a pizza. The code calculated how many dollars a customer would have to pay per ounce.
